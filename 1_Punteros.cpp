@@ -8,6 +8,7 @@ nota
 Son variables punteros aquellas que apuntan a la posición en donde otras variablels de programa 
 se almacenan. 
 */
+// comentario nuevo
 #include<iostream>
 
 using namespace std;
